@@ -135,7 +135,7 @@
 - [serverlist.space](https://serverlist.space)
 - [top.gg](https://top.gg/servers)
 - [Disforge Servers](https://disforge.com/servers) 
-- [TheDiscordList](https://thediscordlist.com) - Curated server directory with upvotes, bump reminders, growth stats and embeddable badges.
+- [TheDiscordList](https://thediscordlist.com) - Curated server directory with upvotes, bump reminders and growth stats.
 
 ### Bot Lists:
 - **View all bot lists: [botblock.org/lists](https://botblock.org/lists)**
